@@ -5,17 +5,17 @@ License: MIT
 License_url: https://github.com/dotnet/windowsdesktop/blob/main/LICENSE
 Steps:
   - action: install_exe
-    file_name: windowsdesktop-runtime-10.0.0-win-x86.exe
-    url: https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.0/windowsdesktop-runtime-10.0.0-win-x86.exe
-    file_checksum: 7ed04633cd160a59acac1cd33fa9a68f
-    file_size: 55699560
+    file_name: windowsdesktop-runtime-10.0.5-win-x86.exe
+    url: https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.5/windowsdesktop-runtime-10.0.5-win-x86.exe
+    file_checksum: 99d35f8c337a849f69dd3ad053b530db
+    file_size: 55612192
     arguments: /quiet
 
   - action: install_exe
-    file_name: windowsdesktop-runtime-10.0.0-win-x64.exe
-    url: https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.0/windowsdesktop-runtime-10.0.0-win-x64.exe
-    file_checksum: ea61cf98800dfb030f45eabfa5dcfdf4
-    file_size: 60222728
+    file_name: windowsdesktop-runtime-10.0.5-win-x64.exe
+    url: https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.5/windowsdesktop-runtime-10.0.5-win-x64.exe
+    file_checksum: 4416e90423f2a264af51a2377514138e
+    file_size: 60082160
     arguments: /quiet
     for:
       - win64
