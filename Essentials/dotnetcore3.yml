@@ -10,7 +10,7 @@ Steps:
   url: https://builds.dotnet.microsoft.com/dotnet/Runtime/3.1.32/dotnet-runtime-3.1.32-win-x86.exe
   rename: dotnet-runtime-3.1.32-win-x86.exe
   file_checksum: b16f55c492a2d8e5c6557977401449ef
-  file_size: 23451472
+  file_size: 23580104
   arguments: /quiet
   
 - action: install_exe
@@ -18,7 +18,7 @@ Steps:
   url: https://builds.dotnet.microsoft.com/dotnet/Runtime/3.1.32/dotnet-runtime-3.1.32-win-x64.exe
   rename: dotnet-runtime-3.1.32-win-x64.exe
   file_checksum: 4ac58dd04d1766f3925e6c7804c28310
-  file_size: 26230496
+  file_size: 26236328
   arguments: /quiet
   for:
     - win64
