@@ -8,7 +8,7 @@ Steps:
     file_name: windowsdesktop-runtime-8.0.25-win-x86.exe
     url: https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.25/windowsdesktop-runtime-8.0.25-win-x86.exe
     file_checksum: 8be3c9789f9037fbdb944089eb607b9a
-    file_size: 9fe649ca4ce6e3b4c2ff8bd305ba25ed
+    file_size: 53804640
     arguments: /quiet
 
   - action: install_exe
