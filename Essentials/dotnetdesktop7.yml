@@ -1,5 +1,5 @@
-Name: dotnetcoredesktop7
-Description: Microsoft .NET Core Desktop Runtime 7.0 LTS
+Name: dotnetdesktop7
+Description: Microsoft .NET Desktop Runtime 7.0 LTS
 Provider: Microsoft
 License: Microsoft EULA
 License_url: https://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm

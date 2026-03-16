@@ -1,5 +1,5 @@
-Name: dotnetcoredesktop10
-Description: Microsoft .NET Core Desktop Runtime 10.0 LTS
+Name: dotnetdesktop10
+Description: Microsoft .NET Desktop Runtime 10.0 LTS
 Provider: Microsoft Corporation
 License: MIT
 License_url: https://github.com/dotnet/windowsdesktop/blob/main/LICENSE
