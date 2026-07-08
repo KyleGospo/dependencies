@@ -7,8 +7,8 @@ Dependencies: []
 Steps:
 - action: install_exe
   file_name: MicrosoftEdgeWebView2RuntimeInstallerX64.exe
-  url: https://github.com/aedancullen/webview2-evergreen-standalone-installer-archive/releases/download/109.0.1518.78/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+  url: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/79f5276c-391e-481d-9e0f-50d730ae66a9/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
   rename: MicrosoftEdgeWebView2RuntimeInstallerX64.exe
   arguments: /silent /install
-  file_checksum: 10de434605516b8ea70f49757ccc2ff8
-  file_size: 145772880
+  file_checksum: 39d6235aa199e156491d348c3ea02089
+  file_size: 202252256
