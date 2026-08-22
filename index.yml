@@ -188,6 +188,10 @@ atmlib:
 physx:
   Description: NVIDIA PhysX System 9.19.0218
   Category: Essentials
+nvidia-libs:
+  Description: NVIDIA CUDA, NVENC and OptiX libraries for Wine
+  Category: Essentials
+  Arch: win64
 quicktime72:
   Description: QuickTime 7.2.0.240
   Category: Essentials
